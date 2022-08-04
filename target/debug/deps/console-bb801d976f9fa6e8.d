@@ -1,0 +1,11 @@
+/Users/kevinhchon/Documents/Documents/web3builders/rustlings/target/debug/deps/console-bb801d976f9fa6e8.rmeta: /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs
+
+/Users/kevinhchon/Documents/Documents/web3builders/rustlings/target/debug/deps/console-bb801d976f9fa6e8.d: /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs /Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs
+
+/Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs:
+/Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs:
+/Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs:
+/Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs:
+/Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs:
+/Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs:
+/Users/kevinhchon/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs:
